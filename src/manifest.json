@@ -1,0 +1,17 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "global-colors",
+      "identifier": "global-colors-identifier",
+      "script": "./global-colors.js"
+    }
+  ],
+  "menu": {
+    "title": "hello-colors",
+    "items": [
+      "global-colors-identifier"
+    ]
+  }
+}
